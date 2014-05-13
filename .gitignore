@@ -4,8 +4,8 @@ projects.zsh
 custom
 !custom/plugins/example
 !custom/example.zsh
+!custom/plugins/uxdev
+!custom/nam.zsh
 *.swp
 !custom/example.zshcache
 cache/
-!custom/plugins/uxdev
-!custom/nam.zsh
